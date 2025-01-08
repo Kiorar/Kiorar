@@ -16,6 +16,3 @@
 - [**To-Do-List**](https://github.com/Kiorar/To-Do-List) - A simple to-do list application in Python.
 - [**Guess-the-number**](https://github.com/Kiorar/Guess-the-number) - A number guessing game implemented in C.
 
-- 🌟 Check out my latest contributions!
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Kiorar&theme=react-dark)
