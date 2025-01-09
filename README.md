@@ -1,6 +1,4 @@
-# Hello, I'm Kiorar 👋
 
-- 🌱 I’m learning **C** and **Python**.
 
 ## 🚀 GitHub Stats
 
