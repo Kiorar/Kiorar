@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiorar&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 
-## 📦 Projects
+## 📦  Some Of My Projects
 
 - [**Calculator**](https://github.com/Kiorar/Calculator) - A simple calculator application built in C.
 - [**Basic-Banking-System**](https://github.com/Kiorar/Basic-Banking-System) - A basic banking system implemented in C.
